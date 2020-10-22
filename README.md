@@ -21,3 +21,6 @@ This repository contains a Python script that uses the Autodesk Fusion 360 API f
 * When all command inputs have been provided a preview will appear and the user can click "okay" to execute the script
 
 ![Example Image](ExampleImage.jpg)
+
+## Sources 
+Hole design is based on guidance given in this article https://markforged.com/resources/blog/heat-set-inserts
