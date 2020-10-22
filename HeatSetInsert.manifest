@@ -1,0 +1,10 @@
+{
+	"autodeskProduct":	"Fusion360",
+	"type":	"script",
+	"author":	"tzmetz",
+	"description":	{
+		"":	"Creates a hole for heat set inserts "
+	},
+	"supportedOS":	"windows",
+	"editEnabled":	true
+}
