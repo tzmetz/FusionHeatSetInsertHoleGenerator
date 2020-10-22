@@ -1,5 +1,5 @@
 # FusionHeatSetInsertHoleGenerator
-Contains source for automating the creation holes for heat set inserts in Fusion 360
+Contains source for automating the creation of holes for heat set inserts in Fusion 360
 
 ## General 
 This repository contains a Python script that uses the Autodesk Fusion 360 API for creating a custom command in Fusion that allows the user to create holes for heat set inserts on 3D printed parts
