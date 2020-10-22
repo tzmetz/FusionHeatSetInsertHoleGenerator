@@ -19,4 +19,5 @@ This repository contains a Python script that uses the Autodesk Fusion 360 API f
 * A command input dialogue will pop up asking the user to select a sketchpoint where the center of the hole will be placed and a surface where the top of the hole will be
 * Once the location of the hole has been determined the user can select the type of heat set insert the hole needs to accomodate
 * When all command inputs have been provided a preview will appear and the user can click "okay" to execute the script
+
 ![Example Image](ExampleImage.jpg)
